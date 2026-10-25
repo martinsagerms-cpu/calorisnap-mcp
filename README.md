@@ -1,6 +1,6 @@
 # CaloriSnap MCP server
 
-**CaloriSnap: AI Calorie Counter** — unlimited AI food photos. Core features free, unlimited, no ads.
+**CaloriSnap: AI Calorie Counter** — free AI calorie counter: photo scan, barcode scan and meal logging are free, unlimited, no ads.
 
 This repository documents the public [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server of **CaloriSnap**. It lets an MCP-compatible AI assistant (Claude, ChatGPT, Gemini CLI, Cursor, Codex and others) work with *your own* CaloriSnap food diary: log a meal, check your day against your goals, review what you ate and correct mistakes, all from inside a chat.
 
